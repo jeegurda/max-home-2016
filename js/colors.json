@@ -1,0 +1,68 @@
+{
+    "about": {
+        "upper": "black",
+        "lower": "#cf463f"
+    },
+    "works": [
+        {
+            "preview": {
+                "upper": "white",
+                "lower": "#cf463f"
+            },
+            "full": {
+                "upper": "black",
+                "lower": "#cf463f"
+            }
+        },
+        {
+            "preview": {
+                "upper": "white",
+                "lower": "#59ae77"
+            },
+            "full": {
+                "upper": "black",
+                "lower": "#59ae77"
+            }
+        },
+        {
+            "preview": {
+                "upper": "#cf463f",
+                "lower": "#596bae"
+            },
+            "full": {
+                "upper": "black",
+                "lower": "#596bae"
+            }
+        },
+        {
+            "preview": {
+                "upper": "white",
+                "lower": "#cf463f"
+            },
+            "full": {
+                "upper": "black",
+                "lower": "#cf463f"
+            }
+        },
+        {
+            "preview": {
+                "upper": "white",
+                "lower": "#59ae77"
+            },
+            "full": {
+                "upper": "black",
+                "lower": "#59ae77"
+            }
+        },
+        {
+            "preview": {
+                "upper": "#cf463f",
+                "lower": "#596bae"
+            },
+            "full": {
+                "upper": "black",
+                "lower": "#596bae"
+            }
+        }
+    ]
+}
